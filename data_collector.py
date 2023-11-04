@@ -33,6 +33,3 @@ class NumberAnalyzer:
 
     def sample_root_mean_square_deviation(self, data):
         return sqrt(self.sample_variance(data))
-
-
-
